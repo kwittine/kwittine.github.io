@@ -11,9 +11,9 @@ Enthusiastic, detail-oriented professional with 4+ years experience in property 
 * **Development Tools & Techniques**	Git \ Agile \ Visual Studio 2017
 
 ## Technical Experience
-* **Vending Machine Application** | Developed a command line application using OOP fundamentals in C# using file.io
-* **National Park Registration App** | Created a command line scheduling application using C# and MS SQL
-* **Auto Body Website** | Built a website utilizing HTML with contact form and Google Maps API
+* **Vending Machine Application** \ Developed a command line application using OOP fundamentals in C# using file.io
+* **National Park Registration App** \ Created a command line scheduling application using C# and MS SQL
+* **Auto Body Website** \ Built a website utilizing HTML with contact form and Google Maps API
 
 ## Education & Certifications
 **Tech Elevator | Cleveland, OH									    May 2018 – Present**
