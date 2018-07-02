@@ -11,9 +11,9 @@ Enthusiastic, detail-oriented professional with 4+ years experience in property 
 * **Development Tools & Techniques**	Git | Agile | Visual Studio 2017
 
 ## Technical Experience
-**Vending Machine Application** | Developed a command line application using OOP fundamentals in C# using file.io
-**National Park Registration App** | Created a command line scheduling application using C# and MS SQL
-**Auto Body Website** | Built a website utilizing HTML with contact form and Google Maps API
+* **Vending Machine Application** | Developed a command line application using OOP fundamentals in C# using file.io
+* **National Park Registration App** | Created a command line scheduling application using C# and MS SQL
+* **Auto Body Website** | Built a website utilizing HTML with contact form and Google Maps API
 
 ## Education & Certifications
 **Tech Elevator | Cleveland, OH									    May 2018 – Present**
@@ -62,7 +62,7 @@ Designation through Colliers University online
 * Evaluated accuracy on projects with research, proofreading, website testing
 
 ## Organizations / Committees
-Building Owners and Managers Association (BOMA) Member (2014 – 2018)
-BOMA Greater Cleveland’s Emerging Leaders Committee (2016 – 2018)
-Colliers International Women’s Mentorship Program (January 2018 – May 2018)
-Republican National Convention Business Impact Committee (2015 – 2016)
+* Building Owners and Managers Association (BOMA) Member *(2014 – 2018)*
+* BOMA Greater Cleveland’s Emerging Leaders Committee *(2016 – 2018)*
+* Colliers International Women’s Mentorship Program *(January 2018 – May 2018)*
+* Republican National Convention Business Impact Committee *(2015 – 2016)*
