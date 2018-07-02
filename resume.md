@@ -5,10 +5,10 @@ Cleveland, Ohio 44113 | 440.212.4621 | kwittine@gmail.com | [LinkedIn](https://w
 Enthusiastic, detail-oriented professional with 4+ years experience in property management. Analytically minded employee skilled in comparative analysis and effective communication throughout all levels of the organization. Seeking a career with a collaborative software development team to dig into problem solving solutions.
 
 ## Technical Skills
-* **Object Oriented Programming**		C++ '|' C# '|' .NET
-* **Web Application Development**		HTML '|' CSS '|' JavaScript '|' jQuery
-* **Database Programming**			MS SQL '|' SQL queries & DML '|' table design & creation '|' Visual Basic
-* **Development Tools & Techniques**	Git '|' Agile '|' Visual Studio 2017
+* **Object Oriented Programming**		C++ '| C# '| .NET
+* **Web Application Development**		HTML '| CSS '| JavaScript '| jQuery
+* **Database Programming**			MS SQL '| SQL queries & DML '| table design & creation '| Visual Basic
+* **Development Tools & Techniques**	Git '| Agile '| Visual Studio 2017
 
 ## Technical Experience
 * **Vending Machine Application** | Developed a command line application using OOP fundamentals in C# using file.io
