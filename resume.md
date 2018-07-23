@@ -6,18 +6,20 @@ Enthusiastic, detail-oriented professional with 4+ years experience in property 
 
 ## Technical Skills
 * **Object Oriented Programming**		C++ \ C# \ .NET
-* **Web Application Development**		HTML \ CSS \ JavaScript \ jQuery
-* **Database Programming**			MS SQL \ SQL queries & DML \ table design & creation \ Visual Basic
+* **Web Application Development**		HTML \ CSS \ JavaScript \ jQuery \ ASP.NET MVC
+* **Database Programming**			MS SQL \ SQL queries & DML \ table design & creation
 * **Development Tools & Techniques**	Git \ Agile \ Visual Studio 2017
 
 ## Technical Experience
 * **Vending Machine Application** \ Developed a command line application using OOP fundamentals in C# using file.io
 * **National Park Registration App** \ Created a command line scheduling application using C# and MS SQL
+* **National Park Website** \ Constructed a weather website using ASP.NET MVC with JavaScript cookies to save user preference
+* **Makeup Website** \ Combined ASP.NET MVC and MS SQL to create a web app that saves a user’s makeup products
 * **Auto Body Website** \ Built a website utilizing HTML with contact form and Google Maps API
 
 ## Education & Certifications
 **Tech Elevator | Cleveland, OH									    May 2018 – Present**
-Attending a 14 week bootcamp teaching dynamic, database-backed coding for applications on .NET platforms
+Attending a 14 week bootcamp learning dynamic, database-backed coding for applications on .NET platforms
 
 **Cuyahoga Community College | Parma, OH								   2004 – 2007**
 Associate of Applied Business: Information Technology | 2007
